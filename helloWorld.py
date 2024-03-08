@@ -1,4 +1,5 @@
 # T20 Practical Task 2
 
-print("Git is awesome!")
+user_input = input("Please type any data")
+print(user_input)
 
